@@ -1,2 +1,4 @@
+role,NetID,LastName,FirstName
+boss,rli366,Runxuan,Li
 employee,hli837,Huixuan,Li
 >>>>>>> 6095a669d64195e872abac844168e951a74ef145
