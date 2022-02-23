@@ -1,3 +1,3 @@
 role,NetID,LastName,FirstName
-boss,rli366,Runxuan,Li
-employee,hli837,Huixuan,Li
+boss,rli366,Li,Runxuan
+employee,hli837,Li,Huixuan
